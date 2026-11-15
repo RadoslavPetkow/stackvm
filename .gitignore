@@ -1,0 +1,7 @@
+asm
+vm
+*.bin
+*.o
+.DS_Store
+.idea/
+cmake-build-*/
